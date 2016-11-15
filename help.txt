@@ -1,0 +1,7 @@
+Install a virtualenvironment with pip
+Setuptools
+Tensorflow
+Numpy
+Keras
+configure ~/.keras/keras.json to say tensorflow 
+

@@ -1,0 +1,7 @@
+Step 1)
+Pip install Keras and follow pip install instructions for tensorflow
+Step 2)
+Configure LD_LIBRARY_PATH and PATH to point to cuda 7.5.18
+Step 3)
+Import Keras
+
